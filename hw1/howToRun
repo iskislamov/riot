@@ -1,0 +1,3 @@
+cmake .
+make
+./Binary_image ./img/14.jpg
